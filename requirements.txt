@@ -2,6 +2,8 @@
 torch==2.2.2
 torchvision==0.17.2
 
+#Hypertuning
+Optuna
 
 # Data and utilities
 numpy==1.26.4
